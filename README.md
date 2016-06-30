@@ -6,11 +6,17 @@ This is the API sample applications for all TR API's. Appropriate SDK can be dow
 Following samples are currently uploaded
 
 ##### [Sales Conditions](Sales Conditions)
-	What are various condition codes on Elektron feeds. Samples in EMA Java.
+	What are various condition codes on Elektron feeds. 
+	API: EMA Java
+	Level: Beginner
 ##### Arbitrage Opportunities
-	How to quickly find discrepency in different markets. Samples in UPA C++.
+	How to quickly find discrepancy in different markets. 
+	API: UPA C++
+	Level: Advanced
 ##### Market Exposure
-	What is net %exposure to single organization holdings. Samples in DSS REST and PermID.
+	What is net %exposure to single organization holdings. 
+	API: DSS REST and PermID
+	Level: Intermediate
 
 
 # Developing 
