@@ -5,7 +5,8 @@ This is the API sample applications for all TR API's. Appropriate SDK can be dow
 
 Following samples are currently uploaded
 
-- [Sales Condition Codes](Sales Conditions)
+- [Sales Conditions](Sales Conditions)
+	What are various condition codes on Elektron feeds. 
 - [Other Sample]()
 - [FooBar]()
 - [MoreFoo]()
