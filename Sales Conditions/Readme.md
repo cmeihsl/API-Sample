@@ -1,14 +1,15 @@
 # SALES CONDITION CODES
 
-	This sample demonstrates the use of sales condition codes in market data. The condition codes are disseminated by markets 
+This sample demonstrates the use of sales condition codes in market data. The condition codes are disseminated by markets 
 during trading activity and reflect special conditions around instrument or a particular trade. The most common conditions
 are:
-- [Regular Trade]
-- [Irregular Trade]
-- [Partial Halt - Orderbook can be modified]
-- [Complete Halt - No activity allowed]
 
-	The condition codes and their meaning are dependent on the listing venue. Not all markets have all conditions and even then 
+- [Regular Trade]()
+- [Irregular Trade]()
+- [Partial Halt - Orderbook can be modified]()
+- [Complete Halt - No activity allowed]()
+
+The condition codes and their meaning are dependent on the listing venue. Not all markets have all conditions and even then 
 different codes mean different conditions. The API sample shows simple classification of trade conditions on Canadian and American 
 markets. For Toronto, the key data point is PRC_QL2 - the Price Qualifier Code, which is enumerated to reflect market conditions. For 
 US markets, Thomson Reuters no longer enumerates, but passes on the raw codes from market to the client. Client have to consult market
