@@ -5,7 +5,7 @@ This is the API sample applications for all TR API's. Appropriate SDK can be dow
 
 Following samples are currently uploaded
 
-##### [Sales Conditions](Sales Conditions)
+##### [Sales Conditions](Elektron/Java/EMA/Sales Conditions)
 	What are various condition codes on Elektron feeds. 
 	API: EMA Java
 	Level: Beginner
